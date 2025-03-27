@@ -24,6 +24,24 @@
 ## Description
 
 This is Yashi Joshi Submitted OTP-Assignment on 27 March 2025.
+OTP Generator
+This is a simple OTP (One-Time Password) generator and verification utility using JSON as a database.
+
+Features:
+Generate OTP (/gen) – Creates a random 6-digit OTP, stores it with userid and timestamp.
+
+Verify OTP (/verify) – Checks if the OTP is correct and valid (within 10 minutes).
+
+How It Works:
+Generate OTP: Send a POST request with userid, and receive an OTP in response.
+
+Verify OTP: Send a POST request with userid and otp to check validity.
+
+
+Installation & Running:
+npm i  
+npm start  
+
 Developed this project on [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Project setup
