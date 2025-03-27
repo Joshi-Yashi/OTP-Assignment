@@ -23,7 +23,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is Yashi Joshi Submitted OTP-Assignment on 27 March 2025.
+Developed this project on [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Project setup
 
